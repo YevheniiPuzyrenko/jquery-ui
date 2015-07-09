@@ -57,5 +57,9 @@
     "thomascook",
     "jquery-ui"
   ],
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/YevheniiPuzyrenko/jquery-ui.git"
+  },
   "license": "MIT"
 }
